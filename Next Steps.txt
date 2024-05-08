@@ -1,0 +1,24 @@
+1. Pulley and SnowBlowerBody not being drawn
+3. GetX and GetY in Shape & Machine1Factory
+2. Verify Sink functionality in Shape, Pulley & SnowBlowerBody (Program crashes when creating pulley 2)
+GetSource(), nullptr
+4. Rotation of Pulley and Snowblowerbody
+5. Motor::Size in Motor.h, is it allowed?
+6. void Pulley::Rotate(double rotation), missing 1 step. I believe it's related to the issue of the pulley
+not turning together as well. i.e. Pulley3, Pulley4 and the flag is not turning.
+For some reason, the mSink size = 0 when using the debugger.
+7. The speed of different pulleys, should they be changed?
+8. Number of flags on pulley 4
+9. Draw snow
+10. Oscillating snowblower
+12. Yellow snow
+11. Integration of Canadian Experience, 2 machines
+13. Canadian exp. start time
+create a bool header guard, so that the machine 1 will start to draw after like 10 seconds etc.
+
+14. Machine Dialogue
+Use the wxFormBuilder, create a dropdown menu that could change both machine numbers. For example, machine 1 changes
+to machine 2, 3, 4 etc.
+15. reverse time issue
+16. Snowblower oscillating out of place
+17. Delete snow
