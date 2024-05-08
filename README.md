@@ -1,5 +1,5 @@
 # CSE335 Project 2
-This is the starter project for CSE335 Project 2. It consists of these CMake projects:
+This is the final submitted solution for CSE335 Project 2. It consists of these CMake projects:
 
 1. CanadianExperience root project
 2. CanadianExperienceLib library project
